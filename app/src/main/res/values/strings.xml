@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_06_-_Database_SQLite_Polubenskiy</string>
+
+    <string name="viewKey">Key</string>
+    <string name="viewValue">Value</string>
+    <string name="buttonInsert">Insert</string>
+    <string name="buttonReplace">Update</string>
+    <string name="buttonSelect">Select</string>
+    <string name="buttonDelete">Delete</string>
+
+</resources>
